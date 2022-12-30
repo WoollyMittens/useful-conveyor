@@ -2,8 +2,6 @@
 
 A lightweight slideshow and product slider that adapts to various screen sizes.
 
-Try the <a href="http://www.woollymittens.nl/default.php?url=useful-conveyor">demo</a>.
-
 ## How to include the script
 
 The stylesheet is best included in the header of the document.
